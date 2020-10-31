@@ -28,6 +28,7 @@ int main(void)
 		perror("signal");
 		exit(1);
 	}
+
 	
 	printf("Enter a string:\n");
 	
