@@ -23,6 +23,7 @@ int main(void) {
 	printf("Done.\n\n");
 	
 	printf("Number from pipe: %d\n" , buffer);
+
 	
 	return EXIT_FAILURE;
 	

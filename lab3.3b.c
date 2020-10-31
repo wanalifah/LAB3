@@ -23,6 +23,7 @@ int main(void) {
 	printf("Done.\n\n");
 	
 	printf("PIN from pipe: %s\n", buffer);
+
 	
 	return EXIT_FAILURE;
 }
